@@ -1,2 +1,2 @@
 # Nvc3d1
-3d
+gh repo clone josealonso48-hue/copy-of-new-vision-metal-building-configurator
